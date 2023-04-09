@@ -1,0 +1,2 @@
+# Genshin
+About Genshin test
